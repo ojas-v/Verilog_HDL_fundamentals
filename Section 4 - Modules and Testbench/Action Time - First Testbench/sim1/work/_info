@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vadder8bit
+Z0 !s110 1750094540
+!i10b 1
+!s100 F5>EXz?HVC83fAalo_<Oh3
+IoaV:8JQ?Ufg[QK1B^EoEJ1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/intelFPGA/18.1/Section 4 - Modules and Testbench/Action Time - First Testbench/sim1
+w1750093983
+8C:/intelFPGA/18.1/Section 4 - Modules and Testbench/Action Time - First Testbench/adder8bit.v
+FC:/intelFPGA/18.1/Section 4 - Modules and Testbench/Action Time - First Testbench/adder8bit.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1750094540.000000
+!s107 C:/intelFPGA/18.1/Section 4 - Modules and Testbench/Action Time - First Testbench/adder8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/Section 4 - Modules and Testbench/Action Time - First Testbench/adder8bit.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vmy_first_testbench
+R0
+!i10b 1
+!s100 LF_1?o5[hOXKEYnW4^h2Q2
+I_3nlhIBD4TPEAzH`:cc@61
+R1
+R2
+w1750094030
+8C:/intelFPGA/18.1/Section 4 - Modules and Testbench/Action Time - First Testbench/my_first_testbench.v
+FC:/intelFPGA/18.1/Section 4 - Modules and Testbench/Action Time - First Testbench/my_first_testbench.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/intelFPGA/18.1/Section 4 - Modules and Testbench/Action Time - First Testbench/my_first_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/Section 4 - Modules and Testbench/Action Time - First Testbench/my_first_testbench.v|
+!i113 1
+R5
+R6

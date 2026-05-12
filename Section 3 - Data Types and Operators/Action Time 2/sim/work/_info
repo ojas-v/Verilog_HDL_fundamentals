@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1/Action Time 1
+vsum_product
+!s110 1747933328
+!i10b 1
+!s100 [Do3@`zm:i0c4oUHF^4H92
+IZmVoQ?[EYhSd:i]E:oa[31
+VDg1SIo80bB@j0V0VzS_@n1
+dC:/intelFPGA/18.1/Action Time 2/sim
+w1747933206
+8C:/intelFPGA/18.1/Action Time 2/ex_1.v
+FC:/intelFPGA/18.1/Action Time 2/ex_1.v
+L0 2
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1747933328.000000
+!s107 C:/intelFPGA/18.1/Action Time 2/ex_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/Action Time 2/ex_1.v|
+!i113 1
+o-work work
+tCvgOpt 0

@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1/Section 4 - Modules and Testbench/Action Time - First Testbench/sim1
+vhalf_adder_structural
+Z0 !s110 1750179559
+!i10b 1
+!s100 C7o1bNzPC9WHm;XlR`KcE2
+I0O^WED<mOzFY9jdg0A<I@2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/intelFPGA/18.1/Section 5 -  Verilog Design Styles/Half Adder Structural/work
+Z3 w1750178443
+Z4 8C:/intelFPGA/18.1/Section 5 -  Verilog Design Styles/Half Adder Structural/half_adder_structural.v
+Z5 FC:/intelFPGA/18.1/Section 5 -  Verilog Design Styles/Half Adder Structural/half_adder_structural.v
+L0 3
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1750179559.000000
+Z8 !s107 C:/intelFPGA/18.1/Section 5 -  Verilog Design Styles/Half Adder Structural/half_adder_structural.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/Section 5 -  Verilog Design Styles/Half Adder Structural/half_adder_structural.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vtestbench
+R0
+!i10b 1
+!s100 _T8mi>L^;VBZ<?<7P8A?g3
+I[RfG2RFXQUK1QJ8E[Mo_C3
+R1
+R2
+R3
+R4
+R5
+L0 18
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
